@@ -1,6 +1,6 @@
 # Node sample
 
-A sample node microservice block for [kintohub](http://kintohub.com)
+A sample node microservice block 
 ...
 
 # First time setup
@@ -14,11 +14,8 @@ A sample node microservice block for [kintohub](http://kintohub.com)
 * `npm run prod` run on port 80
 
 # IMPORTANT
-  this example project is built using using docker file from this repo which
-  may contain version of language different from the one you have set  Kintohub's UI.
-
-  If you want to use the version you've set in Kintohub's UI -> just removethe Dockerfile
+  this example project is built using using docker file 
 
 # Support
 
-http://www.kintohub.com
+
